@@ -42,7 +42,7 @@ const HERO = {
 
 // About
 const ABOUT = {
-  text: "I thrive at the intersection of low-level systems programming and scalable artificial intelligence. My career began in financial data analytics, where I designed modeling pipelines and data platforms at Trellance and PwC. Today, I translate that experience into low-level engineering—developing Google Chromebook firmware using coreboot at Intel, and advancing deep learning research at IIT Patna. I specialize in optimizing systems software to run complex, intelligent workloads efficiently on bare metal.",
+  text: "I thrive at the intersection of low-level systems programming and scalable artificial intelligence. My career began in financial data analytics, where I designed modeling pipelines and data platforms at Trellance and PwC. Today, I translate that experience into low-level engineering, developing Google Chromebook firmware using coreboot at Intel, and advancing deep learning research at IIT Patna. I specialize in optimizing systems software to run complex, intelligent workloads efficiently on bare metal.",
 };
 
 // 5 demo counters (0 -> big number)
